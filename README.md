@@ -20,4 +20,5 @@ Terraria - песочница с элементами ролевой игры, �
 
 ### Результат
 
-<video src="Excalibur.mp4">
+https://github.com/egormelyakin/terraria_scraper/assets/92368158/a19670cc-38c8-49d9-b7e0-5147b99afbe8
+
