@@ -1,0 +1,37 @@
+{
+    "name_replacements": {
+        "Any Wood": "Wood",
+        "Any Torch": "Torch",
+        "Any Iron Bar": "Iron Bar",
+        "Any Sand": "Sand Block",
+        "Any Pressure Plate": "Red Pressure Plate",
+        "Any Bird": "Bird",
+        "Any Scorpion": "Scorpion",
+        "Any Squirrel": "Squirrel",
+        "Any Jungle Bug": "Buggy",
+        "Any Duck": "Duck",
+        "Any Butterfly": "Sulphur Butterfly",
+        "Any Firefly": "Firefly",
+        "Any Snail": "Snail",
+        "Any Turtle": "Turtle",
+        "Any Macaw": "Scarlet Macaw",
+        "Any Cockatiel": "Yellow Cockatiel",
+        "Any Dragonfly": "Black Dragonfly",
+        "Any Fruit": "Apple",
+        "Any Balloon": "Silly Green Balloon",
+        "Any Cloud Balloon": "Cloud in a Balloon",
+        "Any Blizzard Balloon": "Blizzard in a Balloon",
+        "Any Sandstorm Balloon": "Sandstorm in a Balloon",
+        "Any Guide to Critter Companionship": "Guide to Critter Companionship",
+        "Any Guide to Environmental Preservation": "Guide to Environmental Preservation",
+        "Sand": "Sand Block"
+    },
+    "crate_replacements": {
+        "Chest Loot": "Chest"
+    },
+    "npc_replacements": {
+        "Devourer": "Devourer (Devourer Head)",
+        "Eater of Worlds": "Eater of Worlds (Eater of Worlds Head)",
+        "The Destroyer": "The Destroyer (The Destroyer Head)"
+    }
+}

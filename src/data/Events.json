@@ -1,0 +1,233 @@
+[
+    {
+        "event_name": "Blood Moon",
+        "event_summon_type": "Natural",
+        "event_summon_item": null,
+        "event_enemies": [
+            {
+                "event_enemies_prerequisite": null,
+                "event_enemies_list": [
+                    "Blood Zombie",
+                    "Drippler",
+                    "The Groom",
+                    "The Bride",
+                    "Corrupt Bunny",
+                    "Vicious Bunny",
+                    "Corrupt Goldfish",
+                    "Vicious Goldfish",
+                    "Corrupt Penguin",
+                    "Vicious Penguin",
+                    "Clown",
+                    "Wandering Eye Fish",
+                    "Zombie Merman",
+                    "Hemogoblin Shark",
+                    "Blood Eel",
+                    "Dreadnautilus"
+                ]
+            }
+        ],
+        "event_prerequisite": null
+    },
+    {
+        "event_name": "Goblin Army",
+        "event_summon_type": "Object",
+        "event_summon_item": [
+            "Shadow Orb"
+        ],
+        "event_enemies": [
+            {
+                "event_enemies_prerequisite": null,
+                "event_enemies_list": [
+                    "Goblin Peon",
+                    "Goblin Sorcerer",
+                    "Goblin Thief",
+                    "Goblin Warrior",
+                    "Goblin Archer",
+                    "Goblin Summoner",
+                    "Goblin Scout"
+                ]
+            }
+        ],
+        "event_prerequisite": null
+    },
+    {
+        "event_name": "Old One's Army",
+        "event_summon_type": "Item and Object",
+        "event_summon_item": [
+            "Eternia Crystal",
+            "Eternia Crystal Stand"
+        ],
+        "event_enemies": [
+            {
+                "event_enemies_prerequisite": null,
+                "event_enemies_list": [
+                    "Ogre",
+                    "Dark Mage",
+                    "Betsy",
+                    "Old One's Skeleton",
+                    "Etherian Wyvern",
+                    "Etherian Javelin Thrower",
+                    "Etherian Goblin",
+                    "Etherian Goblin Bomber",
+                    "Etherian Lightning Bug",
+                    "Kobold",
+                    "Kobold Glider",
+                    "Drakin"
+                ]
+            }
+        ],
+        "event_prerequisite": null
+    },
+    {
+        "event_name": "Solar Eclipse",
+        "event_summon_type": "Item",
+        "event_summon_item": [
+            "Solar Tablet"
+        ],
+        "event_enemies": [
+            {
+                "event_enemies_prerequisite": null,
+                "event_enemies_list": [
+                    "Swamp Thing",
+                    "Frankenstein",
+                    "Eyezor",
+                    "Vampire",
+                    "The Possessed",
+                    "Fritz",
+                    "Creature from the Deep"
+                ]
+            },
+            {
+                "event_enemies_prerequisite": [
+                    "The Twins",
+                    "The Destroyer",
+                    "Skeletron Prime"
+                ],
+                "event_enemies_list": [
+                    "Reaper"
+                ]
+            },
+            {
+                "event_enemies_prerequisite": [
+                    "Plantera"
+                ],
+                "event_enemies_list": [
+                    "Butcher",
+                    "Nailhead",
+                    "Deadly Sphere",
+                    "Psycho",
+                    "Dr. Man Fly",
+                    "Mothron",
+                    "Baby Mothron"
+                ]
+            }
+        ],
+        "event_prerequisite": [
+            "Wall of Flesh"
+        ]
+    },
+    {
+        "event_name": "Pirate Invasion",
+        "event_summon_type": "Item",
+        "event_summon_item": [
+            "Pirate Map"
+        ],
+        "event_enemies": [
+            {
+                "event_enemies_prerequisite": null,
+                "event_enemies_list": [
+                    "Pirate Deckhand",
+                    "Pirate Corsair",
+                    "Pirate Deadeye",
+                    "Pirate Crossbower",
+                    "Pirate Captain",
+                    "Parrot",
+                    "Flying Dutchman"
+                ]
+            }
+        ],
+        "event_prerequisite": [
+            "Wall of Flesh"
+        ]
+    },
+    {
+        "event_name": "Pumpkin Moon",
+        "event_summon_type": "Item",
+        "event_summon_item": [
+            "Pumpkin Moon Medallion"
+        ],
+        "event_enemies": [
+            {
+                "event_enemies_prerequisite": null,
+                "event_enemies_list": [
+                    "Scarecrow",
+                    "Splinterling",
+                    "Hellhound",
+                    "Poltergeist",
+                    "Headless Horseman",
+                    "Mourning Wood",
+                    "Pumpking"
+                ]
+            }
+        ],
+        "event_prerequisite": [
+            "Plantera"
+        ]
+    },
+    {
+        "event_name": "Frost Moon",
+        "event_summon_type": "Item",
+        "event_summon_item": [
+            "Naughty Present"
+        ],
+        "event_enemies": [
+            {
+                "event_enemies_prerequisite": null,
+                "event_enemies_list": [
+                    "Gingerbread Man",
+                    "Zombie Elf",
+                    "Elf Archer",
+                    "Nutcracker",
+                    "Yeti",
+                    "Elf Copter",
+                    "Krampus",
+                    "Flocko",
+                    "Everscream",
+                    "Santa-NK1",
+                    "Ice Queen"
+                ]
+            }
+        ],
+        "event_prerequisite": [
+            "Plantera"
+        ]
+    },
+    {
+        "event_name": "Martian Madness",
+        "event_summon_type": "Enemy",
+        "event_summon_item": [
+            "Martian Probe"
+        ],
+        "event_enemies": [
+            {
+                "event_enemies_prerequisite": null,
+                "event_enemies_list": [
+                    "Martian Saucer",
+                    "Scutlix",
+                    "Martian Walker",
+                    "Martian Drone",
+                    "Tesla Turret",
+                    "Gigazapper",
+                    "Martian Engineer",
+                    "Martian Officer",
+                    "Ray Gunner",
+                    "Gray Grunt",
+                    "Brain Scrambler"
+                ]
+            }
+        ],
+        "event_prerequisite": [
+            "Golem"
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+__pycache__
+.idea
+cookie.txt
+*.mp4
+*.png
+.github
+.vscode
+script/generator/generator/
+script/scraper/scraper/
+src/cache/
+src/info/
+!Excalibur.mp4

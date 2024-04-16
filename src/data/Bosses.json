@@ -1,0 +1,263 @@
+[
+    {
+        "boss_name": "King Slime",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5e/Map_Icon_King_Slime.png",
+        "boss_summon_type": "Item",
+        "boss_summon": ["Slime Crown"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Eye of Cthulhu",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Map_Icon_Eye_of_Cthulhu_%28first_form%29.png",
+        "boss_summon_type": "Item",
+        "boss_summon": ["Suspicious Looking Eye"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Eater of Worlds",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Map_Icon_Eater_of_Worlds.png",
+        "boss_summon_type": "Object",
+        "boss_summon": ["Shadow Orb"],
+        "boss_summon_count": 3,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Brain of Cthulhu",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fb/Map_Icon_Brain_of_Cthulhu.png",
+        "boss_summon_type": "Object",
+        "boss_summon": ["Crimson Heart"],
+        "boss_summon_count": 3,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Queen Bee",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c6/Map_Icon_Queen_Bee.png",
+        "boss_summon_type": "Object",
+        "boss_summon": ["Larva"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Skeletron",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f4/Map_Icon_Skeletron.png",
+        "boss_summon_type": "NPC",
+        "boss_summon": ["Old Man"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Deerclops",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Map_Icon_Deerclops.png",
+        "boss_summon_type": "Item",
+        "boss_summon": ["Deer Thing"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Wall of Flesh",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d4/Map_Icon_Wall_of_Flesh.png",
+        "boss_summon_type": "Item",
+        "boss_summon": ["Guide Voodoo Doll"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Queen Slime",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/95/Map_Icon_Queen_Slime.png",
+        "boss_summon_type": "Item",
+        "boss_summon": ["Gelatin Crystal"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": ["Wall of Flesh"]
+    },
+    {
+        "boss_name": "The Twins",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Map_Icon_Spazmatism_%28first_form%29.png",
+        "boss_summon_type": "Item",
+        "boss_summon": ["Mechanical Eye"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": ["Wall of Flesh"]
+    },
+    {
+        "boss_name": "The Destroyer",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Map_Icon_The_Destroyer.png",
+        "boss_summon_type": "Item",
+        "boss_summon": ["Mechanical Worm"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": ["Wall of Flesh"]
+    },
+    {
+        "boss_name": "Skeletron Prime",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Map_Icon_Skeletron_Prime.png",
+        "boss_summon_type": "Item",
+        "boss_summon": ["Mechanical Skull"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": ["Wall of Flesh"]
+    },
+    {
+        "boss_name": "Plantera",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ab/Map_Icon_Plantera_%28first_form%29.png",
+        "boss_summon_type": "Object",
+        "boss_summon": ["Plantera's Bulb"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": ["The Twins", "The Destroyer", "Skeletron Prime"]
+    },
+    {
+        "boss_name": "Golem",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Map_Icon_Golem.png",
+        "boss_summon_type": "Item and Object",
+        "boss_summon": ["Lihzahrd Power Cell", "Lihzahrd Altar"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": ["Plantera"]
+    },
+    {
+        "boss_name": "Duke Fishron",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Map_Icon_Duke_Fishron.png",
+        "boss_summon_type": "Item",
+        "boss_summon": ["Truffle Worm"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": ["Wall of Flesh"]
+    },
+    {
+        "boss_name": "Empress of Light",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Map_Icon_Empress_of_Light.png",
+        "boss_summon_type": "Enemy",
+        "boss_summon": ["Prismatic Lacewing"],
+        "boss_summon_count": 1,
+        "boss_prerequisite": ["Plantera"]
+    },
+    {
+        "boss_name": "Lunatic Cultist",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Map_Icon_Lunatic_Cultist.png",
+        "boss_summon_type": "Enemy",
+        "boss_summon": ["Lunatic Devotee", "Cultist Archer"],
+        "boss_summon_count": 4,
+        "boss_prerequisite": ["Golem"]
+    },
+    {
+        "boss_name": "Solar Pillar",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Map_Icon_Solar_Pillar.png",
+        "boss_summon_type": "Enemy",
+        "boss_summon": ["Lunatic Cultist"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Vortex Pillar",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Map_Icon_Vortex_Pillar.png",
+        "boss_summon_type": "Enemy",
+        "boss_summon": ["Lunatic Cultist"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Nebula Pillar",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Map_Icon_Nebula_Pillar.png",
+        "boss_summon_type": "Enemy",
+        "boss_summon": ["Lunatic Cultist"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Stardust Pillar",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Map_Icon_Stardust_Pillar.png",
+        "boss_summon_type": "Enemy",
+        "boss_summon": ["Lunatic Cultist"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Moon Lord",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Map_Icon_Moon_Lord.png",
+        "boss_summon_type": "Enemy",
+        "boss_summon": [
+            "Solar Pillar",
+            "Vortex Pillar",
+            "Nebula Pillar",
+            "Stardust Pillar"
+        ],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Dark Mage",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e0/Map_Icon_Dark_Mage.png",
+        "boss_summon_type": "Event",
+        "boss_summon": ["Old One's Army"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Ogre",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/88/Map_Icon_Ogre.png",
+        "boss_summon_type": "Event",
+        "boss_summon": ["Old One's Army"],
+        "boss_summon_count": null,
+        "boss_prerequisite": ["The Twins"]
+    },
+    {
+        "boss_name": "Betsy",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Map_Icon_Betsy.png",
+        "boss_summon_type": "Event",
+        "boss_summon": ["Old One's Army"],
+        "boss_summon_count": null,
+        "boss_prerequisite": ["Golem"]
+    },
+    {
+        "boss_name": "Flying Dutchman",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/21/Map_Icon_Flying_Dutchman.png",
+        "boss_summon_type": "Event",
+        "boss_summon": ["Pirate Invasion"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Mourning Wood",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Map_Icon_Mourning_Wood.png",
+        "boss_summon_type": "Event",
+        "boss_summon": ["Pumpkin Moon"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Pumpking",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0b/Map_Icon_Pumpking.png",
+        "boss_summon_type": "Event",
+        "boss_summon": ["Pumpkin Moon"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Everscream",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7f/Map_Icon_Everscream.png",
+        "boss_summon_type": "Event",
+        "boss_summon": ["Frost Moon"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Santa-NK1",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Map_Icon_Santa-NK1.png",
+        "boss_summon_type": "Event",
+        "boss_summon": ["Frost Moon"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Ice Queen",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/34/Map_Icon_Ice_Queen.png",
+        "boss_summon_type": "Event",
+        "boss_summon": ["Frost Moon"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    },
+    {
+        "boss_name": "Martian Saucer",
+        "boss_icon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Map_Icon_Martian_Saucer.png",
+        "boss_summon_type": "Event",
+        "boss_summon": ["Martian Madness"],
+        "boss_summon_count": null,
+        "boss_prerequisite": null
+    }
+]
