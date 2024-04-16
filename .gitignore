@@ -17,5 +17,5 @@ dist
 .env
 
 out/
-public/images/
-public/videos/
+script/visualiser/public/images/
+script/visualiser/public/videos/
